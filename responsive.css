@@ -35,6 +35,8 @@
         background-color: white;
         left: 0px;
         right: 0px;
+        top: 50px;
+        z-index: 2;
     }
     .section1-content1{
         display:block !important;
