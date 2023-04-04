@@ -105,7 +105,7 @@
 }
 .section1-content1 .image img{
     height: 600px;
-    padding-bottom: 50px;
+/*     padding-bottom: 50px; */
     display: block;
     transform: scale(1);
     transition: 1s ease-in-out;
