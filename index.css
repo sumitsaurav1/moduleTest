@@ -172,6 +172,7 @@
 .image2{
     overflow: hidden;
     border-radius: 20px;
+    height: fit-content;
 }
 .section1-content2a .image2 img{
     display: block;
@@ -187,9 +188,10 @@
     font-weight:350;
     color: #392415;
     border: 1px solid #392415;
-    width: 25%;
+/*     width: 25%; */
     text-align: center;
     border-radius: 15px;
+    padding:4px;
 }
 .section1-content2a1a h2{
     color: #342415;
